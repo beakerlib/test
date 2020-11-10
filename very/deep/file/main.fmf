@@ -1,0 +1,5 @@
+summary: Set of basic file utilities
+contact: Petr Šplíchal <psplicha@redhat.com>
+test: ./test.sh
+framework: beakerlib
+require: coreutils
